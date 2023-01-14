@@ -2,8 +2,7 @@
 
 ### Problem: 
 
-You are given a string **S**.
-**S** contains alphanumeric characters only.
+You are given a string **S** containing alphanumeric characters only.
 
 Your task is to sort the string **S** in the following manner:
 - All sorted lowercase letters are ahead of uppercase letters.
