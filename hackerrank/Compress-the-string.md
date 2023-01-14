@@ -16,6 +16,7 @@ A single line of output consisting of the modified string.
 ### Constraints
 
 All the characters of **S** denote integers between **0** and **9**.
+
 ![image](https://user-images.githubusercontent.com/48019306/212496936-48ccf265-2068-42a5-9688-5f3102ded290.png)
 
 ### My answer: 
